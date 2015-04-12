@@ -1,3 +1,5 @@
+# http://rubygarage.github.io/public/rubybasics/#everything-is-an-object
+
 puts "alice".capitalize
 
 puts 5.next
